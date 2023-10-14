@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697203766 source:d:\Курсы\3.9\main.cpp
+	<iostream>
+	<windows.h>
+
